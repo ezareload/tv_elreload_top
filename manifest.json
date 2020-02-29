@@ -1,0 +1,39 @@
+
+{
+  "name": "TV.ELRELOAD.TOP",
+  "short_name": "ELRELOAD TV",
+  "start_url": "https://tv.elreload.top/",
+  "display": "standalone",
+  "background_color": "#fafafa",
+  "theme_color": "#ff0000",
+  "description": "Elreload TV tempat untuk nonton tv online, dorama, drakor, movie online subtitle Indonesia yang dapat diakses dari smartphone, laptop, dan PC.",
+  "icons": [{
+    "src": "https://3.bp.blogspot.com/-zTVkM_pTmMc/XlpHBPwqrlI/AAAAAAAAPo4/cjXccvIFkL8ZYVW-Ozo-CvYwKt_o7u1SgCNcBGAsYHQ/s48/favicon_elreloadtv.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-zTVkM_pTmMc/XlpHBPwqrlI/AAAAAAAAPo4/cjXccvIFkL8ZYVW-Ozo-CvYwKt_o7u1SgCNcBGAsYHQ/s72/favicon_elreloadtv.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-zTVkM_pTmMc/XlpHBPwqrlI/AAAAAAAAPo4/cjXccvIFkL8ZYVW-Ozo-CvYwKt_o7u1SgCNcBGAsYHQ/s96/favicon_elreloadtv.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-zTVkM_pTmMc/XlpHBPwqrlI/AAAAAAAAPo4/cjXccvIFkL8ZYVW-Ozo-CvYwKt_o7u1SgCNcBGAsYHQ/s144/favicon_elreloadtv.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-zTVkM_pTmMc/XlpHBPwqrlI/AAAAAAAAPo4/cjXccvIFkL8ZYVW-Ozo-CvYwKt_o7u1SgCNcBGAsYHQ/s168/favicon_elreloadtv.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-zTVkM_pTmMc/XlpHBPwqrlI/AAAAAAAAPo4/cjXccvIFkL8ZYVW-Ozo-CvYwKt_o7u1SgCNcBGAsYHQ/s192/favicon_elreloadtv.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://3.bp.blogspot.com/-zTVkM_pTmMc/XlpHBPwqrlI/AAAAAAAAPo4/cjXccvIFkL8ZYVW-Ozo-CvYwKt_o7u1SgCNcBGAsYHQ/s512/favicon_elreloadtv.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
